@@ -10,8 +10,7 @@
     <br>6. Create a file in VS Code to start scripting. 
     <br>7. To sync your edits with your GitHub repository, locate the "Source Control" icon to the left. 
     <br>8. After locating the "Source Control," there is a blue button that will commit your script and push it to your GitHub Repository. Before committing, it is advised to add a message to let others know of your pushes. 
-    <br> You are now ready to use GitHub in VS Code!
-
+    <br> You are now ready to use GitHub in VS Code
     <br>
     <br> Source: https://code.visualstudio.com/docs/sourcecontrol/github
 </p>
@@ -33,5 +32,7 @@
     <br><b>Pull</b> - the process of obtaining changes and merging them; when working on a collaborative file, you can pull in changes other developers make into your local copy
     <br><b>Remote</b> - the version of a repository/branch that is hosted on a server
     <br><b>Repository</b> - GitHub's most basic element; acts like a project folder that holds all of the files of a project
+    <br>
+    <br> Source: https://docs.github.com/en/get-started/learning-about-github/github-glossary#pull
 </p>
 
