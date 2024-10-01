@@ -11,6 +11,9 @@
     <br>7. To sync your edits with your GitHub repository, locate the "Source Control" icon to the left. 
     <br>8. After locating the "Source Control," there is a blue button that will commit your script and push it to your GitHub Repository. Before committing, it is advised to add a message to let others know of your pushes. 
     <br> You are now ready to use GitHub in VS Code!
+
+    <br>
+    <br> Source: https://code.visualstudio.com/docs/sourcecontrol/github
 </p>
 
 
@@ -18,17 +21,17 @@
 
 <h1>Part 2: Definition of Terms</h1>
 <p>
-    <br>Branch 
-    <br>Clone
-    <br>Commit
-    <br>Fetch
-    <br>GIT
-    <br>Github
-    <br>Merge
-    <br>Merge Conflict
-    <br>Push
-    <br>Pull
-    <br>Remote
-    <br>Repository
+    <br><b>Branch</b> - a parallel version of a repository; allows users to work freely without affecting the main branch
+    <br><b>Clone</b>- a copy of your repository that exists locally on your own machine instead of on a website's server elsewhere
+    <br><b>Commit</b> - AKA "a revision;" a change a user makes to a file; each commit is recorded in GitHub and lets other developers know of the changes that look place
+    <br><b>Fetch</b> - allows developers to make changes to their local working branch without the commitment
+    <br><b>GIT</b> - an open source program that is used to track changes in text files; the core technology that GitHub is built on top of
+    <br><b>Github</b> - a platform where several developers can create, edit, and share their own code to other developers
+    <br><b>Merge</b> - takes the changes in one branch and applies it to another; can be done via pull request
+    <br><b>Merge Conflict</b> - occurs when developers make different changes to the same line of code; these must be resolved before one merges branches
+    <br><b>Push</b> - the process of sending your commited changes to a GitHub repository; you can push your changes so that others can access them
+    <br><b>Pull</b> - the process of obtaining changes and merging them; when working on a collaborative file, you can pull in changes other developers make into your local copy
+    <br><b>Remote</b> - the version of a repository/branch that is hosted on a server
+    <br><b>Repository</b> - GitHub's most basic element; acts like a project folder that holds all of the files of a project
 </p>
 
