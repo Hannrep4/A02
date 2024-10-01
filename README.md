@@ -19,20 +19,20 @@
 
 
 <h1>Part 2: Definition of Terms</h1>
-<p>
-    <br><b>Branch</b> - a parallel version of a repository; allows users to work freely without affecting the main branch
-    <br><b>Clone</b>- a copy of your repository that exists locally on your own machine instead of on a website's server elsewhere
-    <br><b>Commit</b> - AKA "a revision;" a change a user makes to a file; each commit is recorded in GitHub and lets other developers know of the changes that look place
-    <br><b>Fetch</b> - allows developers to make changes to their local working branch without the commitment
-    <br><b>GIT</b> - an open source program that is used to track changes in text files; the core technology that GitHub is built on top of
-    <br><b>Github</b> - a platform where several developers can create, edit, and share their own code to other developers
-    <br><b>Merge</b> - takes the changes in one branch and applies it to another; can be done via pull request
-    <br><b>Merge Conflict</b> - occurs when developers make different changes to the same line of code; these must be resolved before one merges branches
-    <br><b>Push</b> - the process of sending your commited changes to a GitHub repository; you can push your changes so that others can access them
-    <br><b>Pull</b> - the process of obtaining changes and merging them; when working on a collaborative file, you can pull in changes other developers make into your local copy
-    <br><b>Remote</b> - the version of a repository/branch that is hosted on a server
-    <br><b>Repository</b> - GitHub's most basic element; acts like a project folder that holds all of the files of a project
+<ul>
+    <br><li><b>Branch</b></li> - a parallel version of a repository; allows users to work freely without affecting the main branch
+    <br><li><b>Clone</b></li> - a copy of your repository that exists locally on your own machine instead of on a website's server elsewhere
+    <br><li><b>Commit</b></li> - AKA "a revision;" a change a user makes to a file; each commit is recorded in GitHub and lets other developers know of the changes that look place
+    <br><li><b>Fetch</b></li> - allows developers to make changes to their local working branch without the commitment
+    <br><li><b>GIT</b></li> - an open source program that is used to track changes in text files; the core technology that GitHub is built on top of
+    <br><li><b>Github</b></li> - a platform where several developers can create, edit, and share their own code to other developers
+    <br><li><b>Merge</b></li> - takes the changes in one branch and applies it to another; can be done via pull request
+    <br><li><b>Merge Conflict</b></li> - occurs when developers make different changes to the same line of code; these must be resolved before one merges branches
+    <br><li><b>Push</b></li> - the process of sending your commited changes to a GitHub repository; you can push your changes so that others can access them
+    <br><li><b>Pull</b></li> - the process of obtaining changes and merging them; when working on a collaborative file, you can pull in changes other developers make into your local copy
+    <br><li><b>Remote</b></li> - the version of a repository/branch that is hosted on a server
+    <br><li><b>Repository</b></li> - GitHub's most basic element; acts like a project folder that holds all of the files of a project
     <br>
     <br> Source: https://docs.github.com/en/get-started/learning-about-github/github-glossary#pull
-</p>
+</ul>
 
